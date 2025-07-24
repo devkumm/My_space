@@ -3,3 +3,4 @@ echo "Hello from shell"
 Hi
 Hello
 echo "Hello from shell"
+echo "Hello from shell"
